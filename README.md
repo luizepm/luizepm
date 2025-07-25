@@ -1,7 +1,15 @@
 <h1 align="center">Olá! Eu sou o Luiz Eduardo 👋</h1>
 
 <p align="center">
-Sou desenvolvedor com <strong>17 anos de experiência</strong> em <strong>.NET</strong> e tecnologias relacionadas, apaixonado por construir soluções robustas, escaláveis e eficientes. Atualmente atuo com desenvolvimento full stack, focando tanto no backend quanto no frontend, sempre com boas práticas e metodologias ágeis.
+Sou desenvolvedor com <strong>17 anos de experiência</strong> em <strong>.NET</strong> e tecnologias relacionadas, apaixonado por construir soluções robustas, escaláveis e eficientes. Atualmente atuo como TechLead. Abaixo minhas principais características:
+</p>
+
+<p align="left">
+🔹 Atuando como líder técnico em projetos estratégicos da empresa, conduzindo equipes ágeis multidisciplinares, organizando as frentes dos desenvolvedores;<br>
+🔹 Montagem de plano de organização, apoiando os times em diversas frentes, simplificando, maximizando as entregas de cada integrante do time;<br>
+🔹 Participar de reuniões com clientes internos para identificar necessidades do projeto e coletar requisitos para o desenvolvimento dos softwares;<br>
+🔹 Analisar, projetar, programar, depurar e modificar softwares, assim como realizar melhorias contínuas em sistemas;<br>
+🔹 Trazer uma visão mais estratégica durante o desenvolvimento das tarefas, afim de evitar impedimentos futuros que impacte o andamento do projeto.<br>
 </p>
 
 ---
@@ -54,7 +62,7 @@ Sou desenvolvedor com <strong>17 anos de experiência</strong> em <strong>.NET</
 public class LuizMoreira
 {
     public string Nome => "Luiz Eduardo Pirani Moreira";
-    public string Profissão => "Desenvolvedor .NET";
-    public int ExperiênciaAnos => 17;
+    public string Profissao => "Desenvolvedor .NET";
+    public int ExperienciaAnos => 17;
     public string[] Habilidades => new[] { "Backend", "Frontend", "APIs", "Clean Code", "Boas práticas" };
 }
